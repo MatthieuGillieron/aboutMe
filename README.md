@@ -1,8 +1,8 @@
-<p align="center">
-  <strong>À Propos de Moi</strong>
-</p>
+<h1 align="center">À Propos de Moi</h1>
 
-Bonjour ! Je suis Matthieu Gilliéron, étudiant à 42 Lausanne depuis le 1er octobre 2024.
+<p align="center">
+  Bonjour ! Je suis Matthieu Gilliéron, étudiant à 42 Lausanne depuis le 1er octobre 2024.
+</p>
 
 ### Mes Passions
 
