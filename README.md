@@ -13,5 +13,6 @@ Je suis convaincu que cette école m'offre les meilleures conditions pour dével
 
 - **LinkedIn** : [Matthieu Gilliéron](https://linkedin.com/in/matthieu-gillieron-developer)
 
-
+<p>
+</p>
 <p align="center">Merci d'avoir visité ma page ! Je suis ouvert aux nouvelles opportunités et collaborations. À bientôt !</p>
