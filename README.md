@@ -1,10 +1,10 @@
 
   # Bonjour je suis Matthieu Gilliéron !
-Étudiant à 42 Lausanne depuis le 1er octobre 2024, j'ai choisi cette école pour son cursus innovant, qui sait rester à jour avec les avancées de l'IA.
+🎓Étudiant à 42 Lausanne depuis le 1er octobre 2024, j'ai choisi cette école pour son cursus innovant, qui sait rester à jour avec les avancées de l'IA.
 
-Ce modèle éducatif dynamique, axé sur l'apprentissage pratique par projets, l'auto-apprentissage et l'évaluation en P2P, me permet de développer des compétences de manière autonome et de m'adapter aux évolutions rapides du secteur technologique.
+📚Ce modèle éducatif dynamique, axé sur l'apprentissage pratique par projets, l'auto-apprentissage et l'évaluation en P2P, me permet de développer des compétences de manière autonome et de m'adapter aux évolutions rapides du secteur technologique.
 
-Je suis convaincu que cette école m'offre les meilleures conditions pour développer mes compétences et préparer efficacement mon avenir professionnel dans un domaine en perpétuelle mutation.
+📈Je suis convaincu que cette école m'offre les meilleures conditions pour développer mes compétences et préparer efficacement mon avenir professionnel dans un domaine en perpétuelle mutation.
      
 ## Mes Passions :
 
