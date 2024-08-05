@@ -10,8 +10,7 @@ Je suis convaincu que cette école m'offre les meilleures conditions pour dével
 
 - **🔧 Mécanique** : Passionné par la mécanique, ce domaine me permet d'allier le manuel à la logique !
 
-- **💻 Programmation** : La programmation est pour moi une manière de donner vie à des idées et de résoudre des problèmes de manière créative.
-- 
+- **💻 Programmation** : La programmation est pour moi une manière de donner vie à des idées et de résoudre des problèmes de manière créative. 
  Relever des défis et trouver des solutions élégantes est ce qui me motive.
 
  Je suis passionné depuis mon plus jeune âge, et il est difficile de déterminer depuis combien de temps je baigne dans cet univers !
