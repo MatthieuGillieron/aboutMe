@@ -23,7 +23,7 @@ me permet de développer des compétences de manière autonome et de m'adapter a
 
 ### Contact 📩
 
-Pour discuter de technologies, de projets ou pour toute autre question, n'hésitez pas à me contacter :
+N'hésitez pas à me contacter :
 - **LinkedIn** : [Matthieu Gilliéron](https://linkedin.com/in/matthieu-gillieron-developer)
 
 <br>
