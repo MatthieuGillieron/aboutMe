@@ -1,9 +1,7 @@
 <h1 align="center">À Propos de Moi</h1>
 
-<p align="center">
   Bonjour ! Je suis Matthieu Gilliéron, étudiant à 42 Lausanne depuis le 1er octobre 2024.
-</p>
-
+  
 ### Mes Passions
 
 - **🔧 Mécanique** : Passionné par la mécanique, ce domaine me permet d'allier le manuel à la logique ! J'apprécie particulièrement la manière dont les principes mécaniques peuvent se traduire en solutions concrètes.
