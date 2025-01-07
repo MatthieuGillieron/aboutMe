@@ -29,5 +29,6 @@ Of course, programming plays a major role in my life. I love tackling challenges
 Feel free to contact me:  
 - **LinkedIn**: [Matthieu Gilliéron](https://linkedin.com/in/matthieu-gillieron-developer)  
 
+<br>
 
 <p align="center">Thank you for visiting my page! I'm always open to new opportunities and collaborations. See you soon!</p>
