@@ -1,31 +1,33 @@
-# Bonjour, je suis Matthieu Gilliéron ! 👋
+# Hi, I'm Matthieu Gilliéron! 👋
 
-🎓 **Étudiant à 42 Lausanne depuis le 1er octobre 2024**, j'ai choisi cette école pour son cursus innovant, qui sait rester à jour avec les avancées de l'IA.
+🎓 **Student at 42 Lausanne since October 1, 2024**, I chose this school for its unique and innovative curriculum.  
+Its educational model is based on:  
+- **Project-based learning**,  
+- **Self-directed learning**,  
+- **Peer-to-peer evaluation**.  
 
-📚 Ce modèle éducatif dynamique, axé sur :
-- **L'apprentissage pratique par projets**
-- **L'auto-apprentissage**
-- **L'évaluation en P2P**
+For me, this approach is excellent for developing my skills quickly, efficiently, and autonomously. It also enables me to adapt easily to the fast-evolving tech industry.
 
-me permet de développer des compétences de manière autonome et de m'adapter aux évolutions rapides du secteur technologique.
 
-📈 Je suis convaincu que cette école m'offre les meilleures conditions pour développer mes compétences et préparer efficacement mon avenir professionnel dans un domaine en perpétuelle mutation.
+## 🌟 My Passions  
 
----
+**🔧 Mechanics**  
+Since I was young, I've been passionate about mechanics, enjoying the combination of hands-on work and logical thinking.  
 
-### Mes Passions 🌟
+**🏋️‍♂️ Sports**  
+As a big fan of sports, I'm motivated by the idea of constant self-improvement. Sports help me maintain a balance between physical and mental well-being.  
 
-**🔧 Mécanique** : Passionné par la mécanique, ce domaine me permet d'allier le manuel à la logique !
+**📚 Reading**  
+Recently, I’ve developed a passion for reading, particularly autobiographies. They offer me valuable insights and shortcuts for my personal growth, helping me avoid certain mistakes and stay motivated.  
 
-**💻 Programmation** : La programmation est pour moi une manière de donner vie à des idées et de résoudre des problèmes de manière créative. Relever des défis et trouver des solutions élégantes est ce qui me motive. Je suis passionné depuis mon plus jeune âge, et il est difficile de déterminer depuis combien de temps je baigne dans cet univers !
+**💻 Programming**  
+Of course, programming plays a major role in my life. I love tackling challenges and finding elegant solutions to a variety of problems. It’s a field where I can combine creativity with problem-solving.  
 
----
 
-### Contact 📩
+## 📩 Get in Touch  
 
-N'hésitez pas à me contacter :
-- **LinkedIn** : [Matthieu Gilliéron](https://linkedin.com/in/matthieu-gillieron-developer)
+Feel free to contact me:  
+- **LinkedIn**: [Matthieu Gilliéron](https://linkedin.com/in/matthieu-gillieron-developer)  
 
-<br>
 
-<p align="center">Merci d'avoir visité ma page ! Je suis ouvert aux nouvelles opportunités et collaborations. À bientôt !</p>
+<p align="center">Thank you for visiting my page! I'm always open to new opportunities and collaborations. See you soon!</p>
